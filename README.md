@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋 I'm Gagan
 
-<!--
-**gaganpandey-dev/gaganpandey-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech (CSE) student | 🛠️ Backend Developer in progress  
+I build expressive APIs, debug with joy, and document with soul.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Node.js | Express.js | MongoDB | Compass
+- Git & GitHub | Java + Maven (MongoDB Integration)
+- Pug templating | Animated CSS layouts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- Mastering MongoDB Compass: schema design, queries, aggregation pipelines  
+- Building modular GitHub repos with poetic documentation  
+- Scaffolding Java-MongoDB CRUD demos with Maven
+
+## 🌙 Projects That Breathe
+- Scrollable dance pages with expressive content  
+- Animated service blocks with frontend-backend synergy  
+- Moonlit image generators and humanized poetry
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/gagan-pandey-84296722a)
+- 📍 Gorakhpur, India
+
+> “Code is not just logic—it’s language, rhythm, and soul.”
+
